@@ -11,4 +11,3 @@
 - Accepts the user's first name and last name.
 - Combines the names into a full name using f-strings.
 - Displays a personalized greeting message.
--
